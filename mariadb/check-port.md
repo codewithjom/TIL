@@ -1,0 +1,3 @@
+```sql
+SHOW GLOBAL VARIABLES LIKE 'PORT';
+```
