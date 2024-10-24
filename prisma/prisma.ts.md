@@ -8,7 +8,6 @@ If prisma not yet installed:
 
 ```sh
 npm install prisma
-npx prisma
 npx prisma init
 ```
 
