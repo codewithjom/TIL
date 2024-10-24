@@ -10,7 +10,7 @@ Run the following command **before starting** the `mariadb.service`:
 sudo mariadb-install-db --user=mysql --basedir=/usr --datadir=/var/lib/mysql
 sudo systemctl enable mariadb.service
 sudo systemctl start mariadb.service
-mariadb-secure-installation
+sudo mariadb-secure-installation
 ```
 
 # Create User
